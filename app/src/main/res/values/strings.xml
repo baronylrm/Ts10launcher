@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CarLauncher</string>
+    <string name="nav_no_dest">Hedef seçilmedi</string>
+    <string name="nav_start">Navigasyonu başlat</string>
+    <string name="open_maps">Haritayı Aç →</string>
+    <string name="battery_label">BATARYA</string>
+    <string name="fuel_label">YAKIT</string>
+    <string name="speed_unit">KM/S</string>
+    <string name="media_label">ŞU AN ÇALIYOR</string>
+    <string name="apps_label">UYGULAMALAR</string>
+    <string name="quick_label">HIZLI ERİŞİM</string>
+</resources>
